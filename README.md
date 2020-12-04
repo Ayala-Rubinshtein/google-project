@@ -1,4 +1,4 @@
-#Google-Auto-Complete-Project
+# Google-Auto-Complete-Project
 
 Completion of sentences from articles, documentation and information files on various technological topics in order to improve the user experience of the Google search engine
 
